@@ -52,3 +52,6 @@ vendor/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Generated code review metrics dashboard
+EIP/scripts/review-metrics-dashboard.html
